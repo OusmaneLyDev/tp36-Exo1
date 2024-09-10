@@ -1,0 +1,12 @@
+{
+  "name": "exercice1",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "inquirer": "^10.1.5"
+  }
+}
